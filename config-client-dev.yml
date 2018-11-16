@@ -1,1 +1,5 @@
-context.client.value: cloud dev context value
+context:
+  client:
+    value: cloud dev context client value
+  demo:
+    value: cloud dev context demo value

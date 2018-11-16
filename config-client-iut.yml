@@ -1,1 +1,5 @@
-context.client.value: cloud iut context value
+context:
+  client:
+    value: cloud iut context client value
+  demo:
+    value: cloud iut context demo value

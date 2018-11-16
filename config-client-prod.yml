@@ -1,1 +1,5 @@
-context.client.value: cloud prod context value
+context:
+  client:
+    value: cloud prod context client value
+  demo:
+    value: cloud prod context demo value
